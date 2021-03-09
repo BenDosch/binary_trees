@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-include <stdlib.h>
-=======
 #include <stdlib.h>
->>>>>>> testing
 #include "binary_trees.h"
 
 /**

@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-include <stdio.h>
-=======
 #include <stdio.h>
->>>>>>> testing
 #include <stdlib.h>
 #include <string.h>
 #include "binary_trees.h"
