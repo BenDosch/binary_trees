@@ -66,7 +66,6 @@ size_t binary_tree_height(const binary_tree_t *tree)
 	}
 	return (0);
 }
-#include "binary_trees.h"
 
 /**
 * binary_tree_is_full - function that measures if a binary tree is full.
