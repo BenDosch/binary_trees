@@ -4,7 +4,7 @@
 * binary_tree_balance - function that detrmines the balance
 * factor of a binary tree.
 * @tree: Pointer to the tree to check
-* Return: void
+* Return: balence factor
 */
 
 int binary_tree_balance(const binary_tree_t *tree)
